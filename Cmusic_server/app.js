@@ -106,7 +106,7 @@ fs.readdirSync(path.join(__dirname, 'module')).reverse().forEach(file => {
         if(answer.body.code == '301') answer.body.msg = '需要登录'
         res.append('Set-Cookie', answer.cookie)
         res.status(answer.status).send(answer.body)
-      })
+      }) 
   })
 })
 
