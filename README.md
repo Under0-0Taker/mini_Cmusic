@@ -26,5 +26,25 @@ npm start
 
 主页
 
-![image] (/imgs/1.jpg)
+![image](/imgs/1.jpg)
+
+每日推荐
+
+![image](/imgs/2.jpg)
+
+视频页
+
+![image](/imgs/3.jpg)
+
+歌曲播放
+
+![image](/imgs/4.jpg)
+
+个人中心
+
+![image](/imgs/5.jpg)
+
+搜索页
+
+![image](/imgs/6.jpg)
 
